@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # myAntiAV
 learn from https://github.com/knownsec/shellcodeloader
 =======
@@ -22,4 +21,4 @@ learn from https://github.com/knownsec/shellcodeloader
 
 
 
->>>>>>> antiAV
+
